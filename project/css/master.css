@@ -1,0 +1,42 @@
+body {
+    background-color: #f5f5f5;
+    font-family: "Open sans", sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #f32133;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  img {
+    display: block;
+    margin: 25px auto;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 25px auto;
+  }
+  
+  ul li {
+    padding: 5px;
+    font-size: 1.5rem;
+  }
